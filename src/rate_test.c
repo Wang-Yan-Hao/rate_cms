@@ -2,7 +2,7 @@
 #include <unistd.h>
 #include <assert.h>
 
-#include "rate.h"
+#include "rate/rate.h"
 
 void test_observe_rate() {
     Duration interval = {1000}; // 1 sec = 1000 ms

@@ -7,7 +7,7 @@
 
 #include <rte_cycles.h>
 
-#include "cms/count_min_sketch.h"
+#include "../cms/count_min_sketch.h"
 
 typedef struct {
     double duration;
