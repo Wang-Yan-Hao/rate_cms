@@ -8,7 +8,7 @@
 
 #include <rte_cycles.h>
 
-#include "count_min_sketch.h"
+#include "cms/count_min_sketch.h"
 #include "rate.h"
 
 const unsigned long HASHES = 4;
