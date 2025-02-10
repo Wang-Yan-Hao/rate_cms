@@ -9,6 +9,7 @@ The Count-Min Sketch implementation used here is based on the count-min-sketch [
 The `rate_test.c` show how the function work.
 
 ```bash
+cd src
 make
 rate_test
 ```
